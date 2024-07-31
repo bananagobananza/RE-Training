@@ -37,6 +37,3 @@ Further inspection we notice:
 - `abc`: a = 0x61, b = 0x62, c = 0x63 -> last byte is 0x61 + 0x62 + 0x63 = 0x126 -> 0x26 due to overflow
 
 A pattern emerge, same as level but at the end of the user name it calculates the sum of hex value for each characters in the password.
-
-
-**Flag:**
