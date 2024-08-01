@@ -36,6 +36,7 @@ With that, we have 2 condition needs to be satisfied:
 - The first character of username & password must be the same
 
 Trying the password we get
+
 ![Image](lvl1/5.png)
 ![Image](lvl1/6.png)
 
