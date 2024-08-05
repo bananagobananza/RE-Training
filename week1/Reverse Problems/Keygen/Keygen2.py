@@ -47,4 +47,3 @@ param4 = 256
 result = compute_parts(param1, param2, param3, param4)
 print(result)
 
-# 020-242-055-076
